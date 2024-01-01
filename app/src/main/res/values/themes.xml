@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ShortPress" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorOnPrimary">@color/grey</item>
+        <item name="colorAccent">@color/colorMandy</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="colorSecondary">@color/black</item>
+        <item name="android:windowBackground">@color/light_grey</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="ChipCustomStyle" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/background_color_chip_state_list</item>
+        <item name="android:textColor">@color/text_color_chip_state_list</item>
+        <item name="checkedIconTint">@color/white</item>
+    </style>
+    <style name="CustomButtonStyle">
+        <item name="colorPrimary">@color/colorMandy</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomActivityBG" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:background">@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="CustomLineBG" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:background">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.ShortPress.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ShortPress.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.ShortPress.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

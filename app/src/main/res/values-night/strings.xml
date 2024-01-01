@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShortPress</string>
+    <string name="first_time_act_first">ShortPress</string>
+    <string name="first_time_act_second">ShortPress</string>
+    <string name="first_time_act_third">ShortPress</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag_content_desc1">Get the latest news summarized by ShortPress</string>
+    <string name="frag_content_desc2">View only what you prefer and feed what you crave</string>
+    <string name="frag_content_desc3">A simple, easy and intuitive way to read the news</string>
+    <string name="frag_title_desc3">Get Started</string>
+    <string name="frag_title_desc2">Curated For You</string>
+    <string name="frag_title_desc1">Brief Content</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="googleAccountWebClientID">517598552354-8b1j5305f26jnqg780b7p4j4cv5nm944.apps.googleusercontent.com</string>
+    <string name="about_us_desc">ShortPress is a user-friendly app for easy and efficient news reading on mobile devices. Developed by Prasenjeet Shirsat, Sahil Golatkar, and Pavan Gupta.</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+    </string-array>
+</resources>
